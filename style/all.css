@@ -2,3 +2,11 @@ body {
     background-color: darkolivegreen;
     color: bisque;
 }
+
+.img-resp {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
